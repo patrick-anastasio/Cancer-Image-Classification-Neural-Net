@@ -5,6 +5,7 @@ data/unlabeled_images
 data/__pycache__
 .ipynb_checkpoints
 .DS_Store
+.hdf5
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
