@@ -115,7 +115,7 @@ cnn_aug.add(layers.Dense(1, activation='sigmoid'))
 - > ### Apply image filters such as the Laplacian Operator for deeper feature recognition
 - > ### Explore different pooling, normalization and Regularization, as well as tuning pre-trained models
 
-# For more information and for my code please see the .ipynb notebook [HERE](data/Image_Detection_Notebook)
+# For more information and for my code please see the .ipynb notebook [HERE](https://github.com/patrick-anastasio/Neural-Network-Image-Classification/blob/main/Image_Classification_Notebook.ipynb)
 
 
 ### Thank You
