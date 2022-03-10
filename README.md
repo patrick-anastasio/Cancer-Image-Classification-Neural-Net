@@ -116,7 +116,7 @@ cnn_aug.add(layers.Dense(1, activation='sigmoid'))
 
 ## Further Steps
 - > ### Further tune the model's convolutional layers to improve recall and accuracy.... 
->> ### (i.e. activation functions, # of nodes)
+- >> ### (i.e. activation functions, # of nodes)
 - > ### Apply image filters such as the Laplacian Operator for deeper feature recognition
 - > ### Explore different pooling, normalization and Regularization, as well as tuning pre-trained models
 
