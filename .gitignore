@@ -1,5 +1,8 @@
 # project files
-data/
+data/tvt
+data/labeled_images
+data/unlabeled_images
+data/__pycache__
 .ipynb_checkpoints
 .DS_Store
 
