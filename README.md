@@ -101,7 +101,8 @@ cnn_aug.add(layers.Flatten())
 cnn_aug.add(layers.Dense(64, activation='relu'))
 cnn_aug.add(layers.Dense(1, activation='sigmoid'))
 ```
-[result_1](data/Result_1.png)[result_2](data/Result_2.png)
+![result_1](data/Result_1.png)
+![result_2](data/Result_2.png)
 
 ## Interpretation
 - >### The use of dropout layers and regularization resulted in poorer performing models. 
