@@ -125,5 +125,12 @@ Patrick Anastasio
 >LinkedIn : @patrickanastasio      
 >Github : patrick-anastasio
 
-
-
+```
+├── WebApp                                     #folder conatining files for the web app
+    ├── app.py                                 # python script to run web app (front-end)
+    ├── my_model.hdf5                          # model data for running the web app (back-end)
+├── Data                                       #images used in project, sample data for running web app
+├── Image_Classification_Notebook.ipynb        #code/project notebook
+├── README.md                                  #the top-level README for reviewers of this project
+└── Presentation.pdf                           #non-technical stakeholder presentation slides
+```
