@@ -130,6 +130,7 @@ Patrick Anastasio
 >LinkedIn : @patrickanastasio      
 >Github : patrick-anastasio
 
+Repository Structure:
 ```
 ├── Web_App                                    # folder conatining files for the web app
     ├── app.py                                 # python script to run web app (front-end)
