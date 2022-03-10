@@ -130,8 +130,10 @@ Patrick Anastasio
 >LinkedIn : @patrickanastasio      
 >Github : patrick-anastasio
 
-Repository Structure:
+
 ```
+Repository Structure:
+
 ├── Web_App                                    # folder conatining files for the web app
     ├── app.py                                 # python script to run web app (front-end)
     ├── my_model.hdf5                          # model data for running the web app (back-end)
