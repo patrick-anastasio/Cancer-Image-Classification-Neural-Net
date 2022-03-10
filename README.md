@@ -33,11 +33,11 @@
 
 ## Image Samples
 
-![img_samples](data/155.jpeg)
-![img_samples](data/156.jpeg)
-![img_samples](data/206.jpeg)
-![img_samples](data/UID_34_17_17_all.jpeg)
-![img_samples](data/UID_H20_30_2_hem.jpeg)
+![img_samples](data/155.jpg)
+![img_samples](data/156.jpg)
+![img_samples](data/206.jpg)
+![img_samples](data/UID_34_17_17_all.jpg)
+![img_samples](data/UID_H20_30_2_hem.jpg)
 
 ### The data for this project was acquired in three parts:
 
