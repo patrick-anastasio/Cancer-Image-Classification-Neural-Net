@@ -131,6 +131,6 @@ Patrick Anastasio
     ├── my_model.hdf5                          # model data for running the web app (back-end)
 ├── Data                                       #images used in project, sample data for running web app
 ├── Image_Classification_Notebook.ipynb        #code/project notebook
-├── README.md                                  #the top-level README for reviewers of this project
-└── Presentation.pdf                           #non-technical stakeholder presentation slides
+├── Presentation.pdf                           #non-technical stakeholder presentation slides
+└── README.md                                  #the top-level README for reviewers of this project
 ```
